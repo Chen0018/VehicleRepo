@@ -1,0 +1,8 @@
+// Write an Application that allows the user to create 3
+// Vehicle Objects, a Car, a Bus and an eBike.
+// The program should ask the user for a number of passengers and tell
+// the user which vehicle is best to use for travelling.
+//编写一个允许用户创建的应用程序
+//车辆对象，一辆汽车，一辆公共汽车和一辆电动自行车。
+//程序应该向用户询问乘客数量并告知
+//用户最适合使用哪辆车。
